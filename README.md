@@ -125,12 +125,6 @@ The application is built with a mobile-first approach:
 - **Lazy Loading**: Components loaded on demand
 - **Caching**: Efficient caching strategies for better performance
 
-
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 **Aayush Shah**
@@ -145,7 +139,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [shadcn/ui](https://ui.shadcn.com/) for the beautiful UI components
 - [Lucide](https://lucide.dev/) for the clean and consistent icons
 
----
-
 Built with ❤️ by Aayush Shah using modern web technologies
-\`\`\`
