@@ -38,50 +38,29 @@ A comprehensive, modern teacher management interface built with Next.js, TypeScr
 
 ### Prerequisites
 - Node.js 18+ 
-- npm or yarn package manager
-
+- npm / yarn / pnpm
 ### Setup Instructions
 
-1. **Clone the repository**
-   \`\`\`bash
-   git clone https://github.com/yourusername/teacherhub.git
-   cd teacherhub
-   \`\`\`
+git clone https://github.com/aayushshah-dev/teacherhub.git
+cd teacherhub
+pnpm install
+pnpm dev
 
-2. **Install dependencies**
-   \`\`\`bash
-   npm install
-   # or
-   yarn install
-   \`\`\`
 
-3. **Run the development server**
-   \`\`\`bash
-   npm run dev
-   # or
-   yarn dev
-   \`\`\`
-
-4. **Open your browser**
-   Navigate to [http://localhost:3000](http://localhost:3000)
 
 ## 🏗️ Project Structure
 
-\`\`\`
 teacherhub/
-├── app/                    # Next.js App Router pages
-│   ├── globals.css        # Global styles
-│   ├── layout.tsx         # Root layout
-│   ├── page.tsx          # Dashboard page
-│   ├── teachers/         # Teacher management pages
-│   └── payments/         # Payment management pages
-├── components/           # Reusable components
-│   ├── ui/              # shadcn/ui components
-│   └── layout/          # Layout components
-├── types/               # TypeScript type definitions
-├── lib/                 # Utility functions
-└── public/             # Static assets
-\`\`\`
+├── app/             # App Router pages
+│   ├── globals.css
+│   ├── layout.tsx
+│   ├── teachers/
+│   └── payments/
+├── components/      # UI & layout components
+├── lib/             # Utility functions
+├── public/          # Static files
+├── types/           # TypeScript definitions
+
 
 ## 🎨 Design Decisions
 
@@ -170,10 +149,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**Aayush Shah**
+- GitHub: [@yourusername](https://github.com/Aayush-shah842)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/aayush-shah-3b6a9223b)
+- Email: aayushshah842@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -184,5 +163,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ using modern web technologies**
+Built with ❤️ by Aayush Shah using modern web technologies
 \`\`\`
