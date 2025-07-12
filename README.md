@@ -139,4 +139,3 @@ The application is built with a mobile-first approach:
 - [shadcn/ui](https://ui.shadcn.com/) for the beautiful UI components
 - [Lucide](https://lucide.dev/) for the clean and consistent icons
 
-Built with ❤️ by Aayush Shah using modern web technologies
