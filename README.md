@@ -41,7 +41,7 @@ A comprehensive, modern teacher management interface built with Next.js, TypeScr
 - npm / yarn / pnpm
 ### Setup Instructions
 
-git clone https://github.com/aayushshah-dev/teacherhub.git
+git clone https://github.com/Aayush-shah842/teacher-management-system
 cd teacherhub
 pnpm install
 pnpm dev
