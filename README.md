@@ -50,6 +50,9 @@ pnpm dev
 ### Loom video link 
 Link - https://drive.google.com/file/d/11FuWndLPjB2gJqg8HdMgxNQrci6ai3S_/view?usp=sharing
 
+### Vercel Link
+Link - https://teacher-management-system-wheat.vercel.app/
+
 
 
 ## 🏗️ Project Structure
