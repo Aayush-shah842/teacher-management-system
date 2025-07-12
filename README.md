@@ -125,23 +125,7 @@ The application is built with a mobile-first approach:
 - **Lazy Loading**: Components loaded on demand
 - **Caching**: Efficient caching strategies for better performance
 
-## 🔮 Future Enhancements
 
-- **Authentication**: User login and role-based access control
-- **Database Integration**: Connect to real database (PostgreSQL/MongoDB)
-- **Real-time Updates**: WebSocket integration for live updates
-- **Advanced Analytics**: Detailed reporting and analytics dashboard
-- **Export Features**: PDF and Excel export functionality
-- **Notification System**: Email and in-app notifications
-- **Multi-language Support**: Internationalization (i18n)
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (\`git checkout -b feature/amazing-feature\`)
-3. Commit your changes (\`git commit -m 'Add amazing feature'\`)
-4. Push to the branch (\`git push origin feature/amazing-feature\`)
-5. Open a Pull Request
 
 ## 📄 License
 
@@ -150,8 +134,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Aayush Shah**
-- GitHub: [@yourusername](https://github.com/Aayush-shah842)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/aayush-shah-3b6a9223b)
+- GitHub: [@Aayush-shah842](https://github.com/Aayush-shah842)
+- LinkedIn: [Aayush Shah](https://www.linkedin.com/in/aayush-shah-3b6a9223b)
 - Email: aayushshah842@gmail.com
 
 ## 🙏 Acknowledgments
