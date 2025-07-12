@@ -1,4 +1,4 @@
-# TeacherHub - Modern Teacher Management System
+# Teacher Management Interface Modernization Task 
 
 A comprehensive, modern teacher management interface built with Next.js, TypeScript, and Tailwind CSS. This application provides a clean, responsive, and user-friendly solution for managing teachers, payments, and administrative tasks in educational institutions.
 
